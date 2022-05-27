@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PARTHA
 - 👀 I’m interested in ...skillup,programming,devloping etc
-- 🌱 I’m currently Completing ...in BTech
+- 🌱 I’m currently Completing ...MY BTech
 -     To contact me just message me in whtsapp 
 
 <!---
